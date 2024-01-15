@@ -1,2 +1,3 @@
 # furyswap-contracts
-contracts code for furyswap https://app.omnifury.org/
+contracts code for furyswap https://furyswap.org/
+
